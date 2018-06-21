@@ -3,7 +3,7 @@
     private static $dbHost = "localhost";
     private static $dbName = "underdog_phones";
     private static $dbUsername = "root";
-    private static $dbUserpassword = "MIGHTYDUCKS";
+    private static $dbUserpassword = "*******";
 
     private static $connection = null;
 
